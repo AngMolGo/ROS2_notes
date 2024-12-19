@@ -1,0 +1,154 @@
+[0.000000] (-) TimerEvent: {}
+[0.000403] (pkg_pub) JobQueued: {'identifier': 'pkg_pub', 'dependencies': OrderedDict()}
+[0.000981] (pkg_pub) JobStarted: {'identifier': 'pkg_pub'}
+[0.009662] (pkg_pub) JobProgress: {'identifier': 'pkg_pub', 'progress': 'cmake'}
+[0.010441] (pkg_pub) Command: {'cmd': ['/usr/bin/cmake', '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/src/pkg_pub', '-DCMAKE_INSTALL_PREFIX=/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub'], 'cwd': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub', 'env': OrderedDict({'USER': 'angmolgo', 'SSH_CLIENT': '192.168.100.40 57601 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/lib/aarch64-linux-gnu:/opt/ros/jazzy/lib', 'HOME': '/home/angmolgo', 'OLDPWD': '/home/angmolgo', 'SSH_TTY': '/dev/pts/7', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'angmolgo', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm', 'XDG_SESSION_ID': '50', 'PATH': '/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'AMENT_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub:/opt/ros/jazzy', 'SHELL': '/bin/bash', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.100.40 57601 192.168.100.8 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub:/opt/ros/jazzy'}), 'shell': False}
+[0.099734] (-) TimerEvent: {}
+[0.113352] (pkg_pub) StdoutLine: {'line': b'-- The C compiler identification is GNU 13.3.0\n'}
+[0.199887] (-) TimerEvent: {}
+[0.215633] (pkg_pub) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 13.3.0\n'}
+[0.244523] (pkg_pub) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.300012] (-) TimerEvent: {}
+[0.400463] (-) TimerEvent: {}
+[0.411021] (pkg_pub) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.427094] (pkg_pub) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.427412] (pkg_pub) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.427963] (pkg_pub) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.441534] (pkg_pub) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.500588] (-) TimerEvent: {}
+[0.600986] (-) TimerEvent: {}
+[0.621839] (pkg_pub) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.637953] (pkg_pub) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.638337] (pkg_pub) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.639013] (pkg_pub) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.641925] (pkg_pub) StdoutLine: {'line': b'-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)\n'}
+[0.701087] (-) TimerEvent: {}
+[0.801456] (-) TimerEvent: {}
+[0.857656] (pkg_pub) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter \n'}
+[0.901553] (-) TimerEvent: {}
+[1.001916] (-) TimerEvent: {}
+[1.016844] (pkg_pub) StdoutLine: {'line': b'-- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)\n'}
+[1.057713] (pkg_pub) StdoutLine: {'line': b'-- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)\n'}
+[1.073993] (pkg_pub) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)\n'}
+[1.092627] (pkg_pub) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[1.101967] (-) TimerEvent: {}
+[1.114236] (pkg_pub) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[1.202092] (-) TimerEvent: {}
+[1.207449] (pkg_pub) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)\n'}
+[1.210258] (pkg_pub) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)\n'}
+[1.302253] (-) TimerEvent: {}
+[1.338306] (pkg_pub) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.13")  \n'}
+[1.362850] (pkg_pub) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") \n'}
+[1.397403] (pkg_pub) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[1.402371] (-) TimerEvent: {}
+[1.485625] (pkg_pub) StdoutLine: {'line': b'-- Found rclpy: 7.1.2 (/opt/ros/jazzy/share/rclpy/cmake)\n'}
+[1.486771] (pkg_pub) StdoutLine: {'line': b'-- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)\n'}
+[1.502430] (-) TimerEvent: {}
+[1.602660] (-) TimerEvent: {}
+[1.657334] (pkg_pub) StdoutLine: {'line': b'-- Configuring done (1.6s)\n'}
+[1.673766] (pkg_pub) StdoutLine: {'line': b'-- Generating done (0.0s)\n'}
+[1.679798] (pkg_pub) StdoutLine: {'line': b'-- Build files have been written to: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub\n'}
+[1.698219] (pkg_pub) CommandEnded: {'returncode': 0}
+[1.698919] (pkg_pub) JobProgress: {'identifier': 'pkg_pub', 'progress': 'build'}
+[1.699684] (pkg_pub) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub', '--', '-j4', '-l4'], 'cwd': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub', 'env': OrderedDict({'USER': 'angmolgo', 'SSH_CLIENT': '192.168.100.40 57601 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/lib/aarch64-linux-gnu:/opt/ros/jazzy/lib', 'HOME': '/home/angmolgo', 'OLDPWD': '/home/angmolgo', 'SSH_TTY': '/dev/pts/7', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'angmolgo', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm', 'XDG_SESSION_ID': '50', 'PATH': '/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'AMENT_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub:/opt/ros/jazzy', 'SHELL': '/bin/bash', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.100.40 57601 192.168.100.8 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub:/opt/ros/jazzy'}), 'shell': False}
+[1.702736] (-) TimerEvent: {}
+[1.789855] (pkg_pub) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/talker.dir/src/minimal_publisher.cpp.o\x1b[0m\n'}
+[1.802890] (-) TimerEvent: {}
+[1.903406] (-) TimerEvent: {}
+[2.003807] (-) TimerEvent: {}
+[2.104139] (-) TimerEvent: {}
+[2.204502] (-) TimerEvent: {}
+[2.304853] (-) TimerEvent: {}
+[2.405185] (-) TimerEvent: {}
+[2.505565] (-) TimerEvent: {}
+[2.605920] (-) TimerEvent: {}
+[2.706256] (-) TimerEvent: {}
+[2.806571] (-) TimerEvent: {}
+[2.906921] (-) TimerEvent: {}
+[3.007287] (-) TimerEvent: {}
+[3.107627] (-) TimerEvent: {}
+[3.207956] (-) TimerEvent: {}
+[3.308252] (-) TimerEvent: {}
+[3.408533] (-) TimerEvent: {}
+[3.508807] (-) TimerEvent: {}
+[3.609114] (-) TimerEvent: {}
+[3.709427] (-) TimerEvent: {}
+[3.809805] (-) TimerEvent: {}
+[3.910107] (-) TimerEvent: {}
+[4.010436] (-) TimerEvent: {}
+[4.110774] (-) TimerEvent: {}
+[4.211129] (-) TimerEvent: {}
+[4.311478] (-) TimerEvent: {}
+[4.411780] (-) TimerEvent: {}
+[4.512031] (-) TimerEvent: {}
+[4.612286] (-) TimerEvent: {}
+[4.712588] (-) TimerEvent: {}
+[4.812914] (-) TimerEvent: {}
+[4.913252] (-) TimerEvent: {}
+[5.013614] (-) TimerEvent: {}
+[5.113949] (-) TimerEvent: {}
+[5.214273] (-) TimerEvent: {}
+[5.314581] (-) TimerEvent: {}
+[5.414871] (-) TimerEvent: {}
+[5.515166] (-) TimerEvent: {}
+[5.615514] (-) TimerEvent: {}
+[5.715837] (-) TimerEvent: {}
+[5.816355] (-) TimerEvent: {}
+[5.916729] (-) TimerEvent: {}
+[6.017053] (-) TimerEvent: {}
+[6.117434] (-) TimerEvent: {}
+[6.217734] (-) TimerEvent: {}
+[6.318048] (-) TimerEvent: {}
+[6.418387] (-) TimerEvent: {}
+[6.518655] (-) TimerEvent: {}
+[6.618902] (-) TimerEvent: {}
+[6.719170] (-) TimerEvent: {}
+[6.819491] (-) TimerEvent: {}
+[6.919772] (-) TimerEvent: {}
+[7.020025] (-) TimerEvent: {}
+[7.120278] (-) TimerEvent: {}
+[7.220544] (-) TimerEvent: {}
+[7.320861] (-) TimerEvent: {}
+[7.421139] (-) TimerEvent: {}
+[7.521419] (-) TimerEvent: {}
+[7.621690] (-) TimerEvent: {}
+[7.721945] (-) TimerEvent: {}
+[7.822265] (-) TimerEvent: {}
+[7.922582] (-) TimerEvent: {}
+[8.022909] (-) TimerEvent: {}
+[8.123225] (-) TimerEvent: {}
+[8.223596] (-) TimerEvent: {}
+[8.323949] (-) TimerEvent: {}
+[8.424418] (-) TimerEvent: {}
+[8.514422] (pkg_pub) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable talker\x1b[0m\n'}
+[8.524498] (-) TimerEvent: {}
+[8.624871] (-) TimerEvent: {}
+[8.725387] (-) TimerEvent: {}
+[8.825830] (-) TimerEvent: {}
+[8.868794] (pkg_pub) StdoutLine: {'line': b'[100%] Built target talker\n'}
+[8.889901] (pkg_pub) CommandEnded: {'returncode': 0}
+[8.890624] (pkg_pub) JobProgress: {'identifier': 'pkg_pub', 'progress': 'install'}
+[8.906654] (pkg_pub) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub'], 'cwd': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub', 'env': OrderedDict({'USER': 'angmolgo', 'SSH_CLIENT': '192.168.100.40 57601 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/lib/aarch64-linux-gnu:/opt/ros/jazzy/lib', 'HOME': '/home/angmolgo', 'OLDPWD': '/home/angmolgo', 'SSH_TTY': '/dev/pts/7', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'angmolgo', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm', 'XDG_SESSION_ID': '50', 'PATH': '/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'AMENT_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub:/opt/ros/jazzy', 'SHELL': '/bin/bash', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.100.40 57601 192.168.100.8 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub:/opt/ros/jazzy'}), 'shell': False}
+[8.920924] (pkg_pub) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[8.921261] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/lib/pkg_pub/talker\n'}
+[8.924209] (pkg_pub) StdoutLine: {'line': b'-- Set non-toolchain portion of runtime path of "/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/lib/pkg_pub/talker" to ""\n'}
+[8.924474] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/lib/pkg_pub/minimal_suscriber.py\n'}
+[8.924919] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/ament_index/resource_index/package_run_dependencies/pkg_pub\n'}
+[8.925306] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/ament_index/resource_index/parent_prefix_path/pkg_pub\n'}
+[8.925669] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/ament_prefix_path.sh\n'}
+[8.925825] (-) TimerEvent: {}
+[8.925982] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/ament_prefix_path.dsv\n'}
+[8.926155] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/path.sh\n'}
+[8.926320] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/path.dsv\n'}
+[8.926493] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.bash\n'}
+[8.926752] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.sh\n'}
+[8.926972] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.zsh\n'}
+[8.927192] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.dsv\n'}
+[8.927425] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/package.dsv\n'}
+[8.927728] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/ament_index/resource_index/packages/pkg_pub\n'}
+[8.927979] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/cmake/pkg_pubConfig.cmake\n'}
+[8.928134] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/cmake/pkg_pubConfig-version.cmake\n'}
+[8.928328] (pkg_pub) StdoutLine: {'line': b'-- Installing: /home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/package.xml\n'}
+[8.931387] (pkg_pub) CommandEnded: {'returncode': 0}
+[8.954226] (pkg_pub) JobEnded: {'identifier': 'pkg_pub', 'rc': 0}
+[8.955092] (-) EventReactorShutdown: {}

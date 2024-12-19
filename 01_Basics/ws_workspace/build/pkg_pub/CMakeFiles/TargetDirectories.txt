@@ -1,0 +1,10 @@
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/uninstall.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/pkg_pub_uninstall.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/talker.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/test.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/edit_cache.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/rebuild_cache.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/list_install_components.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/install.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/install/local.dir
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/build/pkg_pub/CMakeFiles/install/strip.dir

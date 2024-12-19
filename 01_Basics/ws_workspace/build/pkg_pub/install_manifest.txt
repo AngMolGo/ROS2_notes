@@ -1,0 +1,17 @@
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/lib/pkg_pub/talker
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/lib/pkg_pub/minimal_suscriber.py
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/ament_index/resource_index/package_run_dependencies/pkg_pub
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/ament_index/resource_index/parent_prefix_path/pkg_pub
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/ament_prefix_path.sh
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/ament_prefix_path.dsv
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/path.sh
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/environment/path.dsv
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.bash
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.sh
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.zsh
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/local_setup.dsv
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/package.dsv
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/ament_index/resource_index/packages/pkg_pub
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/cmake/pkg_pubConfig.cmake
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/cmake/pkg_pubConfig-version.cmake
+/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/ws_workspace/install/pkg_pub/share/pkg_pub/package.xml

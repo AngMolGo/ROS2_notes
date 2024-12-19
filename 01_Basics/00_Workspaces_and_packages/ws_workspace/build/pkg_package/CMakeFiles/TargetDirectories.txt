@@ -1,9 +1,0 @@
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/uninstall.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/pkg_package_uninstall.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/test.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/edit_cache.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/rebuild_cache.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/list_install_components.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/install.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/install/local.dir
-/home/angmolgo/Projects/Devs/ROS2Devs/ROS2_tutorial/01_Basics/00_Workspaces_and_packages/ws_workspace/build/pkg_package/CMakeFiles/install/strip.dir
